@@ -4,6 +4,8 @@ public class TestCaste002 {
 
     public static void main(String[] args) {
 
+        System.out.println("Hello\n");
+
         for (int i = 1; i < 100; i++) {
 
 
@@ -11,7 +13,7 @@ public class TestCaste002 {
 
         }
 
-        System.out.println("Byee");
+        System.out.println("\nByee");
 
 
     }
