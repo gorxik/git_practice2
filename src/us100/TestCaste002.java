@@ -13,7 +13,7 @@ public class TestCaste002 {
 
         }
 
-        System.out.println("\nByee");
+        System.out.println("\nByee Byee");
 
 
     }
